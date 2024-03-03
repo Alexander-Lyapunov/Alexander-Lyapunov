@@ -29,5 +29,5 @@
  ### Работа с данными
  <p align="left"> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cygwin_logo.svg/120px-Cygwin_logo.svg.png](https://avatars.mds.yandex.net/i?id=ba9d0570c124775cd877d708499942be769db263-9847509-images-thumbs&n=13)https://avatars.mds.yandex.net/i?id=ba9d0570c124775cd877d708499942be769db263-9847509-images-thumbs&n=13" width="36" height="36" alt="Cygwin" /></a>
+  <a><img src="https://wsofter.com/wp-content/uploads/2018/11/1200px-cygwin_logo.svg.png" width="36" height="36" alt="Cygwin" /></a>
  </p> 
