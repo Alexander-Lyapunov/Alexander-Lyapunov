@@ -2,8 +2,8 @@
 ### Обо мне:
 Я - Junior QA-инженер с огромным желанием расти и развиваться🚀  
 - 📖 Прошёл курс "Инженер по тестированию от новичка до автоматизатора" от  [Яндекс Практикума](https://practicum.yandex.ru)
-- 🗂️ Портфолио доступно на [Github](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum)
-- 📩  Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:lagrand1@yandex.ru)  [![Telegram Badge](https://img.shields.io/badge/-Alexander-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LyapunovQA)
+- 🗂️ Портфолио доступно на [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum)
+- 📩 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:lagrand1@yandex.ru)  [![Telegram Badge](https://img.shields.io/badge/-Alexander-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LyapunovQA)
 
 ----
 
