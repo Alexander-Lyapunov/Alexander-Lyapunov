@@ -10,6 +10,7 @@
  ### 💻 Тестовая документация
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" width="36" height="36" alt="Google Sheets" /></a>
+ <a href="https://www.testit.software/" target="_blank" rel="noreferrer"><img src="https://www.testit.software/themes/ino-testit/assets/images/logo/logo.svg" width="36" height="36" alt="TestIt" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
   <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" width="36" height="36" alt="Miro" /></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
