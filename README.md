@@ -10,7 +10,7 @@
  ### 💻 Тестовая документация
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" width="36" height="36" alt="Google Sheets" /></a>
- <a href="https://www.testit.software/" target="_blank" rel="noreferrer"><img src="https://avatars.mds.yandex.net/i?id=39ec315cda6862d061662e04f5e94428f2637fce-9147275-images-thumbs&n=13" width="36" height="36" alt="TestIt" /></a>
+ <a href="https://www.testit.software/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/6ca5e2be8811ebfe50f050b57766053a48cc8c4cdc10e5357921f45d068d1fde/68747470733a2f2f646f63732e7465737469742e736f6674776172652f696d616765732f7465737469745f6c6f676f5f69636f6e5f626c75652e706e67" width="36" height="36" alt="TestIt" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
   <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" width="36" height="36" alt="Miro" /></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
