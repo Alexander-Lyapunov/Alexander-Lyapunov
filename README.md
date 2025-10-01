@@ -31,6 +31,6 @@
   ### 💾 Работа с БД
   <p align="left"> 
      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/250px-PhpMyAdmin_logo.png" width="36" height="36" alt="PhpMyAdmin" /></a>
+   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/e3/24/7b/e3247b38850eb4ab7b8f14d538ba2aa3.jpg" width="36" height="36" alt="PhpMyAdmin" /></a>
    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/250px-PhpMyAdmin_logo.svg.png
     </p> 
