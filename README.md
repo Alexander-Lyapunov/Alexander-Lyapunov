@@ -66,7 +66,7 @@
 ----
 
 ### 📄 Моё резюме
-- [CV Lyapunov Alexander]()
+- [CV Lyapunov Alexander](https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/CV/CV.pdf)
 
 ----
 
