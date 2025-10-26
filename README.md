@@ -34,3 +34,72 @@
      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/250px-PhpMyAdmin_logo.svg.png" width="36" height="36" alt="PhpMyAdmin" /></a>
     </p> 
+
+ 
+----
+
+ ### 🧪 Тестирование
+- Функциональное, регрессионное, интеграционное, исследовательское тестирование
+- Тестирование API, кросс-браузерное и кроссплатформенное тестирование
+- Smoke testing, Sanity testing, Usability testing
+  
+----
+
+ ### 🎯 Тест-дизайн
+- Классы эквивалентности, граничные значения, Таблицы решений, pairwise testing
+  
+----
+
+ ### 🤖 Автоматизация
+- Python, Pytest, Selenium, Selemium Grid, Playwright, Requests
+- Page Object Model, Allure Report
+- TestIt Adapter - интеграция автотестов с TestIt
+  
+----
+
+ ### 🔧 Инструменты тестирования
+- API: Postman, Swagger (Работа с JSON, XML)
+- Отладка: Charles, Chrome DevTools, Laravel Telescope
+- Мониторинг: Grafana, Dozzle
+  
+----
+
+ ### 🌐 Кросс-браузерное и кроссплатформенное тестирование
+- BrowserStack, Selectel, Responsive Viewer
+  
+----
+
+ ### 💾 Базы данных
+- MySQL, PostgreSQL (базовые запросы)
+- PhpMyAdmin, Adminer
+
+----
+
+ ### 📊 Менеджмент и документация
+- Баг-трекинг: Redmine, Trello, YouTrack
+- Тест-менеджмент: TestIt, Google Таблицы
+- CI/CD: GitLab CI/CD
+
+----
+
+ ### 🎨 Дизайн и коллаборация
+- Figma, Miro, Yandex Boards (mindmap)
+
+----
+
+ ### 💻 Разработка и IDE
+- PHPStorm, PyCharm, VS Code, Cursor
+
+----
+
+ ### 🔐 Инфраструктура
+- Nextcloud - системы файлового хранения и обмена
+- LDAP - системы аутентификации и управления пользователями
+
+----
+
+### 🤝 Процессы и коммуникация
+- Онбординг сотрудников, ревью работы
+- Составление документации
+- Работа с AI-ассистентами и текстовыми моделями
+
