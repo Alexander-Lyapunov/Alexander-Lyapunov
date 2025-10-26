@@ -74,7 +74,7 @@
 
 <div>
 
-[Ручное тестирование в рамках обучения](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum/tree/main)  
+- [Ручное тестирование в рамках обучения](https://github.com/Alexander-Lyapunov/QA_Yandex_Practicum/tree/main)  
 
 </div>
 
