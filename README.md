@@ -70,6 +70,16 @@
 
 ----
 
+### 📁 Портфолио:
+
+<div>
+
+[TEST]()  
+
+</div>
+
+----
+
 ### 📚 Курсы и сертификаты:
 
 - <a href="https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/Certificates/Я_Диплом_RU_Ляпунов.pdf" target="_blank">Диплом о профессиональной переподготовке по программе «Инженер по тестированию: от новичка до автоматизатора»</a>
