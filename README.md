@@ -59,6 +59,6 @@
 
 ### 📚 Курсы и сертификаты:
 
-<a href="https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/Certificates/Я_Диплом_RU_Ляпунов.pdf" target="_blank">Диплом о профессиональной переподготовке по программе «Инженер по тестированию: от новичка до автоматизатора»</a>
-<a href="https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/Certificates/Я_Сertificate_ENG_Ляпунов.pdf" target="_blank">Certificate of Completion of the “Full-Stack QA Engineer” Professional Training Course (ENG version)</a>
-<a href="https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/Certificates/Благодарственное%20письмо%20Ляпунов%20Александр.pdf" target="_blank">Благодарственное письмо | iskrapc / Яндекс Практикум</a>
+- <a href="https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/Certificates/Я_Диплом_RU_Ляпунов.pdf" target="_blank">Диплом о профессиональной переподготовке по программе «Инженер по тестированию: от новичка до автоматизатора»</a>
+- <a href="https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/Certificates/Я_Сertificate_ENG_Ляпунов.pdf" target="_blank">Certificate of Completion of the “Full-Stack QA Engineer” Professional Training Course (ENG version)</a>
+- <a href="https://github.com/Alexander-Lyapunov/Alexander-Lyapunov/blob/main/Certificates/Благодарственное%20письмо%20Ляпунов%20Александр.pdf" target="_blank">Благодарственное письмо | iskrapc / Яндекс Практикум</a>
